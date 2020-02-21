@@ -4,4 +4,4 @@ A new Flutter application.
 
 ## Getting Started
 
-- FireBase ML librariy with flutter
+- Firebase ML library with flutter
